@@ -96,11 +96,16 @@ This helps in testing queries and understanding system functionality.
 ---
 
 ## 🚀 How to Run
-1. Install dependencies:
+1. Go to the location where all files are saved.
+2. Click on adress bar , remove current adress aand write C:\Windows\System32\cmd.exe
+3. It will take you in the command prompt .Then follow the next steps
+4.  Install dependencies:
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
+5. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+6. Run the app:
    `npm run dev`
+7.After running this it will give you a local host link .Copy the first link and paste it in any of you browser and then you can access the website
+8.To access the admin you will need this username-: Admin, Password: Helloewu123 
 
 ---
 
@@ -112,8 +117,10 @@ This helps in testing queries and understanding system functionality.
 
 ---
 
-## 👩‍💻 Author
+## 👩‍💻Contributors
 *Royaida Maksud *
+*Saima Zaman Aahir *
+*Sajid Ikbal *
 
 ---
 
